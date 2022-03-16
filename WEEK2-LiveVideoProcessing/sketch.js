@@ -2,7 +2,7 @@ let video;
 let x=0;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(400, 400);
   pixelDensity(1)
   
   video = createCapture(VIDEO)
