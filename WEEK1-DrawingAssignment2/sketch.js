@@ -4,7 +4,7 @@ let cirColor2 = 255;
 let cirColor3 = 255;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   background(255);
 }
 
